@@ -29,3 +29,16 @@ I'm highly motivated and super excited to learn about JS and start working in th
  }
  ``` 
 ****
+## Courses
+- [Web Development for Beginners: HTML and CSS](https://stepik.org/course/38218/syllabus) (completed)
+- [RS Schools Course «JavaScript/Front-end»](https://app.rs.school/) (in progress)
+- [JavaScript](https://learn.javascript.ru/) (in progress)
+****
+## Education
+- Belarusian State University of Informatics and Radioelectronics.
+****
+## Language
+- **English:**  Intermediate
+- **Russian:** Native
+- **Belorussian:** Native
+- **Ukrainian:**  Intermediate
