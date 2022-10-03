@@ -4,4 +4,4 @@
 
 [https://tttemu.github.io/rsschool-cv/](https://tttemu.github.io/rsschool-cv/)
 
-[# online-zoo](https://tttemu.github.io/rsschool-cv/tree/online-zoo/online-zoo/pages/main)
+([# online-zoo](https://tttemu.github.io/rsschool-cv/blob/online-zoo/online-zoo/pages/main/index.html))
