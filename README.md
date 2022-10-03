@@ -1,1 +1,1 @@
-[# online-zoo](https://github.com/tttemu/rsschool-cv/tree/online-zoo/online-zoo)
+[# online-zoo](https://github.com/tttemu/rsschool-cv/tree/online-zoo/online-zoo/pages/main)
